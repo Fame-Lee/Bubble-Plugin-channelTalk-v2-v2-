@@ -1,0 +1,92 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 2,
+        "width": 2
+    },
+    "display": "channelTalk",
+    "events": {
+        "AAb": {
+            "caption": "onShowMessenger",
+            "name": "onShowMessenger"
+        },
+        "ABC": {
+            "caption": "entereamil",
+            "name": "entereamil"
+        }
+    },
+    "fields": {
+        "AAO": {
+            "caption": "member_id",
+            "editor": "DynamicValue",
+            "name": "member_id",
+            "optional": true,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAP": {
+            "caption": "name",
+            "editor": "DynamicValue",
+            "name": "name",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "email",
+            "editor": "DynamicValue",
+            "name": "email",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        },
+        "AAR": {
+            "caption": "mobileNumber",
+            "editor": "DynamicValue",
+            "name": "mobileNumber",
+            "optional": true,
+            "rank": 3,
+            "value": "text"
+        },
+        "AAS": {
+            "caption": "landlineNumber",
+            "editor": "DynamicValue",
+            "name": "landlineNumber",
+            "optional": true,
+            "rank": 4,
+            "value": "text"
+        },
+        "AAa": {
+            "caption": "hideChannelButton",
+            "default_val": true,
+            "editor": "DynamicValue",
+            "name": "hideChannelButton",
+            "optional": false,
+            "rank": 5,
+            "value": "boolean"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "resizable": true
+    },
+    "states": {
+        "AAg": {
+            "caption": "userName",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "userName",
+            "value": "text"
+        },
+        "ABD": {
+            "caption": "userEmail",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "userEmail",
+            "value": "text"
+        }
+    }
+}

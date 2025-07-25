@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "chat",
+        "2": "small business"
+    },
+    "data_tracked": false,
+    "demo_page": "https://nocodersplugin2.bubbleapps.io/version-test/plugin_channeltalk_v2",
+    "description": "🇰🇷 made by Nocoders\n버블의 시작을 노코더스가 도와드릴게요!\n한국 버블 생태계를 위해 노코더스가 함께 합니다\n- 버블 초보자 한글 강의 : https://nocoders.kr/class\n- 노코더스 디스코드 커뮤니티 : https://discord.com/invite/QZ3zPzDEMq\n- 기업 및 기관 교육 제휴 : edu@nocoders.kr\n- 버블 외주 문의 : https://nocoders.kr\n\n------------------------\n\n\n특정 페이지에 채널톡을 임베디드 할 수 있습니다. \n채널톡 문의 시, 버블 DB의 유저 정보를 자동으로 전송합니다,\n\n누구나 쉽게 사용할 수 있도록 (1) 튜토리얼 및 가이드와 (2) 데모 페이지, (3) 에디터 페이지를 꼼꼼하게 정리했습니다.\n- 상세 가이드 및 튜토리얼 :  https://nocoders.kr/plugin_guide/channeltalkv2\n- 버블 데모 페이지 : https://nocodersplugin2.bubbleapps.io/version-test/plugin_channeltalk_v2\n- 버블 에디터 페이지 : https://bubble.io/page?id=nocodersplugin2&tab=tabs-1&name=plugin_channeltalk_v2&type=page",
+    "image": "//meta-q.cdn.bubble.io/f1709475679005x495476738839589300/ch_loader_white-1552365640918.gif",
+    "license": "open_source",
+    "link": "https://nocoders.kr/plugin_guide/channeltalkv2",
+    "name": "channelTalk v2 ( 채널톡 플러그인 v2)",
+    "plugin_instructions": "[b]채널톡 v1[/b]\n- [url=\"https://nocoders.kr/plugin_guide/embeded-channeltalk\"]v1 바로가기[/url]\n- 모든 웹페이지에 채널톡 임베디드\n- 유저가 문의를 남길 시,  채널톡에서 이메일 및 연락처를 직접 입력\n\n[b]채널톡 v2 [/b]\n- 필요한 페이지에만 채널톡을 임베드\n- 문의를 남길 시, 버블 유저 DB에 저장된 값(ex. 유저 이름, 유저 이메일)으로 자동 전달 가능",
+    "sa_node_version": 18
+}
